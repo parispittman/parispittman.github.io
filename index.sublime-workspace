@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"count",
+				"countstep"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/parispittman11/BaltimoreWIT/layout/php/get_tweets.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/.htaccess",
+		"/Users/parispittman11/Downloads/htaccess",
+		"/Users/parispittman11/BaltimoreWIT/layout/about/contact.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/interior.original.html",
+		"/Users/parispittman11/BaltimoreWIT/layout/community/calendar.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/community/codeofconduct.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/careers/mentormatch.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/community/resources.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/community/index.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/about/index.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/blog/2016/blog-title.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/blog/2016/index.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/blog/index.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/careers/index.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/careers/jobs.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/careers/mentoring.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/news/2016/hellobaltimore.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/news/2016/index.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/news/index.php",
+		"/Users/parispittman11/BaltimoreWIT/layout/php/get_events.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"joinCTA",
+			"join",
+			"button",
+			"count",
+			"countstep",
+			"datetime",
+			"eventDateStr",
+			"results",
+			"cal",
+			"m",
+			"cal",
+			"div",
+			"int",
+			"js",
+			"$t1",
+			"$orderByDate",
+			"sort",
+			"temp",
+			"\"temp\"",
+			"temp",
+			"updated",
+			"temp",
+			"#bmorewitjobs",
+			"job2",
+			"updated"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
