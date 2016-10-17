@@ -8,59 +8,85 @@ html, body {
 }
 
 h1 {
-  font-size: 18px;
+  font-size: 16px;
   color: #ffffff;
 }
 
 div {
-  padding-right: 30px;
-  height: 100%;
-  width: 100%;
 }
 
 .container {
-  display: flex;
+  display:;
 }
 
 .me {
-  padding-left: 30px;
-  min-width: 75%;
 }
 
 .location {
-  background-color: #5E2750;
-  max-width: 25%;
-  min-width: 140px;
-  flex: 1;
 }
 
 .community {
-  background-color: #5E2750;
-  max-width: 25%;
-  min-width: 140px;
-  flex: 1;
 }
 
 .articles {
-  background-color: #5E2750;
-  max-width: 25%;
-  min-width: 140px;
-  flex: 1;
 }
 
 .contact411 {
-  background-color: #5E2750;
-  max-width: 25%;
-  min-width: 140px;
-  flex: 1;
 }
 
-#box {
-  width : 200px;
-  height: 100px;
-  padding: 10px;
-  font-family : monospace;
-  cursor : text;
-  word-wrap: break-word;
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 30px;
+  color: #2E3D48;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
 }
 
