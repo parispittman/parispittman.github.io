@@ -1,0 +1,66 @@
+html, body {
+  font-family: 'Ubuntu Mono', monospace;
+  background-color: #5E2750;
+  color: #ffffff;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-size: 18px;
+  color: #ffffff;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+}
+
+.me {
+  padding-left: 30px;
+  min-width: 75%;
+}
+
+.location {
+  background-color: #5E2750;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+
+.community {
+  background-color: #5E2750;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+
+.articles {
+  background-color: #5E2750;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+
+.contact411 {
+  background-color: #5E2750;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+
+#box {
+  width : 200px;
+  height: 100px;
+  padding: 10px;
+  font-family : monospace;
+  cursor : text;
+  word-wrap: break-word;
+}
+
