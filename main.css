@@ -8,8 +8,13 @@ html, body {
 }
 
 h1 {
-  font-size: 16px;
+  font-size: 14px;
   color: #ffffff;
+}
+
+p span 
+{
+    display: block;
 }
 
 div {
