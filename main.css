@@ -1,15 +1,18 @@
 html, body {
-  font-family: 'Ubuntu Mono', monospace;
+ 
   background-color: #5E2750;
   color: #ffffff;
   margin: 0;
   width: 100%;
   height: 100%;
+  padding: 2em;
 }
 
 h1 {
-  font-size: 14px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 45px;
   color: #ffffff;
+  text-align: center;
 }
 
 p span 
@@ -21,8 +24,16 @@ div {
 }
 
 .container {
-  display:;
+  display: block;
+  border: 15px solid black;
+  font-family: 'Droid+Sans+Mono', sans-serif;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
 }
+
+.articles div {
 
 .me {
 }
@@ -31,9 +42,6 @@ div {
 }
 
 .community {
-}
-
-.articles {
 }
 
 .contact411 {
@@ -94,4 +102,5 @@ div {
     color: black;
   }
 }
+
 
