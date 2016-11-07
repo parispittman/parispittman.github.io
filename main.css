@@ -29,10 +29,15 @@ div {
   margin: auto;
   width: 50%;
   padding: 10px;
-
+}
+#articlelist {
+  column-count:4;
+  -moz-column-count:4;
+  -webkit-column-count:4;
 }
 
-.articles div {
+.articles {
+}
 
 .me {
 }
