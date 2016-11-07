@@ -4,7 +4,7 @@ html, body {
   margin: 0;
   width: 100%;
   height: 100%;
-  padding: 2em;
+  padding: 1em;
 }
 
 h1 {
@@ -27,13 +27,17 @@ div {
   border: 15px solid black;
   font-family: 'Droid+Sans+Mono', sans-serif;
   margin: auto;
-  width: 50%;
+  width: 60%;
   padding: 10px;
 }
+
 #articlelist {
-  column-count:4;
-  -moz-column-count:4;
-  -webkit-column-count:4;
+  column-count: 4;
+  -moz-column-count: 4;
+  -webkit-column-count: 4;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .articles {
@@ -53,8 +57,9 @@ div {
 
 .blinking-cursor {
   font-weight: 100;
-  font-size: 30px;
+  font-size: 25px;
   color: #2E3D48;
+  display: inline-block;
   -webkit-animation: 1s blink step-end infinite;
   -moz-animation: 1s blink step-end infinite;
   -ms-animation: 1s blink step-end infinite;
