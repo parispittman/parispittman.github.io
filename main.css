@@ -55,6 +55,17 @@ div {
 .contact411 {
 }
 
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+}
+
 .blinking-cursor {
   font-weight: 100;
   font-size: 25px;
